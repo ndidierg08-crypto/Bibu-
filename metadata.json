@@ -1,0 +1,6 @@
+{
+  "name": "Nuestra Historia de Amor",
+  "description": "Un espacio interactivo y lleno de amor con cartas, recuerdos, juegos, música, cápsula del tiempo, mapa de citas y un chat de inteligencia artificial que responde como yo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
